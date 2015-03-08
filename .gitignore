@@ -1,5 +1,6 @@
 # Project build directories
 target/
+project/
 
 # IDE specific files
 .idea/
